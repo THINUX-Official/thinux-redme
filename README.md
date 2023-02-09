@@ -1,4 +1,14 @@
 ### Hi there 👋
+# Hello I'm THINUX!
+
+🔭 I’m currently working on the GDSE Programe in IJSE as a Software Engineer.
+🌱 I’m currently learning JAVA & HTML.
+
+💬 Ask me about anthing in my related fields.
+
+📫 How to reach me: 
+                    thinuxoffcial@gmail.com 
+
 
 <!--
 **THINUX-Official/THINUX-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
